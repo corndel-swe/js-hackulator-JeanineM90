@@ -13,3 +13,7 @@ function maxOfThree(x, y, z) {
 }
 
 export default maxOfThree
+
+/**
+ && is AND 
+ */
